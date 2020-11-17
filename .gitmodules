@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/teten-nugraha/teten-nugraha.github.io.git
+	branch = main
